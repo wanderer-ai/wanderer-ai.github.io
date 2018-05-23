@@ -48,8 +48,9 @@ Tel.: +49 89 54 58 01 100</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wanderer.ai/features/</guid>
-      <description>This project is currently under development and in early prototyping stage. Some features may change over time and many of them are not ready yet. However, this page desribes all planned features. By the color you can see which feature is already supported.
-There are two different main versions of our Wanderer.ai software. Both are open source and compatible to each other. Just choose the version that will fit your needs.</description>
+      <description>This project is currently under development and in early prototyping stage. Some features may change over time and many of them are not ready yet. However, this page desribes all planned features.
+There are two different main versions of the Wanderer.ai software. Both are open source and compatible to each other. Just choose the version that will fit your needs.
+    Little Wanderer Big Wanderer     Open Source License Apache 2 Apache 2   Run chat in web browser ✓ ✓   Run chat on server side ✓ ✓   Report generation ✓ ✓   Visual conversation builder ✓ ✓   Run actions ✓ ✓   Entity support ✓ ✓   Conclusion support ✓ ✓   Revoke answers and conclusions ✓ ✓   Multiple languages ✓ ✓   Embeded Media ✓ ✓   Runs on every webhosting ✓ Needs Docker support   Privacy by default ✓ Must be implemented   Persist user answers local storage graph database   Resum conversations if storage is not deleted ✓   Secret behavior Chat logic is public visible ✓   NLP integration Not yet supported ✓   API integration Not yet supported ✓   3rd party chat channels Not supported ✓   Auto learning Not supported ✓   Share items between topics Not supported ✓   Conversation and user analysis Not supported ✓   Registration and user management Not supported ✓   Tech stack Single library Full server stack   Logic driver engine Cytoscape.</description>
     </item>
     
     <item>
