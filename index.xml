@@ -10,5 +10,58 @@
 	<atom:link href="https://wanderer.ai/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>FAQ</title>
+      <link>https://wanderer.ai/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanderer.ai/faq/</guid>
+      <description> Why there are two different versions of wanderer.ai? Can i use wanderer.ai in commercial projects? What is the secret of its aritficial intelicence? How can i contribute to the project? What about data privacy? </description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://wanderer.ai/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanderer.ai/imprint/</guid>
+      <description>Information provided according to Sec. 5 German Telemedia Act (TMG): Christoph Stitz
+SteamPixel Media
+Erthalstraße 6
+97074 Würzburg
+Contact: Telephone: 0931 417 282 21
+Email: info@steampixel.de
+VAT: VAT Id number according to Sec. 27 a German Value Added Tax Act:
+DE294503272
+Information concerning professional indemnity insurance: Name and residence of insurer:
+Hiscox Europe Underwriting Limited
+Zweigniederlassung für die Bundesrepublik Deutschland
+Hauptbevollmächtigter: Robert Dietrich
+Arnulfstraße 31
+80636 München
+Tel.: +49 89 54 58 01 100</description>
+    </item>
+    
+    <item>
+      <title>Planned features</title>
+      <link>https://wanderer.ai/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanderer.ai/features/</guid>
+      <description>This project is currently under development and in early prototyping stage. Some features may change over time and many of them are not ready yet. However, this page desribes all planned features. By the color you can see which feature is already supported.
+There are two different main versions of our Wanderer.ai software. Both are open source and compatible to each other. Just choose the version that will fit your needs.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://wanderer.ai/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanderer.ai/privacy-policy/</guid>
+      <description>1. An overview of data protection General The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
+Data collection on our website Who is responsible for the data collection on this website?
+The data collected on this website are processed by the website operator.</description>
+    </item>
+    
   </channel>
 </rss>
