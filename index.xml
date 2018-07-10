@@ -49,8 +49,7 @@ Tel.: +49 89 54 58 01 100</description>
       
       <guid>https://wanderer.ai/features/</guid>
       <description>This project is currently under development and in early prototyping stage. Some features may change over time and many of them are not ready yet. However, this page desribes all planned features.
-There are two different main versions of the Wanderer.ai software. Both are open source and compatible to each other. Just choose the version that will fit your needs.
-    Wanderer.ai Chat Wanderer.ai Server     Open Source License Apache 2 Apache 2   Run chat in web browser ✓ ✓   Report generation ✓ ✓   Visual conversation builder ✓ ✓   Run actions ✓ ✓   Entity support ✓ ✓   Conclusion support ✓ ✓   Revoke answers and conclusions ✓ ✓   Multiple languages ✓ ✓   Embeded Media ✓ ✓   Runs on every webhosting ✓ Needs Docker support   Privacy by default ✓ Must be implemented   Persist user answers local storage graph database   Resum conversations if storage is not deleted ✓   Secret behavior Chat logic is public visible ✓   NLP integration Not yet supported ✓   API integration Not yet supported ✓   3rd party chat channels Not supported ✓   Auto learning Not supported ✓   Share items between topics Not supported ✓   Conversation and user analysis Not supported ✓   Registration and user management Not supported ✓   Tech stack Single library Full server stack   Logic driver engine Cytoscape.</description>
+There will be two different main variants of the Wanderer.ai software. Both are open source and compatible to each other. Just choose the version that will fit your needs. There will be the &amp;ldquo;Wanderer.ai Chat&amp;rdquo; that is a pure front end solution that comes without any need for servers or databases and the &amp;ldquo;Wanderer.</description>
     </item>
     
     <item>
@@ -62,6 +61,16 @@ There are two different main versions of the Wanderer.ai software. Both are open
       <description>1. An overview of data protection General The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 Data collection on our website Who is responsible for the data collection on this website?
 The data collected on this website are processed by the website operator.</description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://wanderer.ai/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wanderer.ai/story/</guid>
+      <description>Hey! My name is Chris. I am developer, coder and enthusiastic freelancer from Würzburg, Germany. I am the maintainer and developer of Wanderer.ai.
+A while ago me and a friend of mine where spending much time in a software as a service project (SAAS). The goal was to help and support people writing unique and beautifull blog articles. The core of the product should be a chatbot that guides people through the process and give tips while writing.</description>
     </item>
     
   </channel>

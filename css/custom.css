@@ -65,3 +65,28 @@ th{
   .mockup--item{
     max-height:100vh;
   }
+
+/*
+  Techstack
+*/
+.techstack{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap:wrap;
+}
+
+  .techstack img{
+    height:60px;
+    width:auto;
+    margin-bottom:25px;
+  }
+
+/*
+  Author image
+*/
+.author{
+  float:left;
+  height:auto;
+  width:auto !important;
+  margin-right:20px;
+}
