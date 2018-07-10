@@ -23,3 +23,45 @@ th{
 .cookie-message a{
   color:#ffffff;
 }
+
+/*
+  Theme Header
+*/
+.cover-big {
+  height: 100vh;
+}
+
+  .cover-big .bg-black-60 {
+    height: 100%;
+  }
+
+.vertical-center{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+.horizontal-center{
+  text-align:center;
+}
+
+.logo{
+  height:auto;
+  width:10vw;
+  min-width:100px;
+  margin-bottom:10px;
+}
+
+/*
+  Mockup
+*/
+.mockup{
+  position:relative;
+  margin-top:-20vh;
+  text-align: center;
+}
+
+  .mockup--item{
+    max-height:100vh;
+  }
