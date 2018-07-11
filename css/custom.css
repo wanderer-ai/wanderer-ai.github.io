@@ -7,6 +7,11 @@ th{
   text-align:left !important;
 }
 
+/* Headers */
+h1, h2, h3, h4, h5, h6{
+  text-transform:uppercase;
+}
+
 /* Cookie bar */
 .cookie-message {
   position: fixed;
@@ -60,6 +65,9 @@ th{
   position:relative;
   margin-top:-20vh;
   text-align: center;
+  margin-bottom:5rem;
+  margin-left:1rem;
+  margin-right:1rem;
 }
 
   .mockup--item{
@@ -72,13 +80,14 @@ th{
 .techstack{
   display: flex;
   justify-content: space-between;
+  justify-content: space-around;
   flex-wrap:wrap;
 }
 
   .techstack img{
-    height:60px;
+    max-height:100px;
     width:auto;
-    margin-bottom:25px;
+    margin:25px;
   }
 
 /*
