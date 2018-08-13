@@ -37,7 +37,7 @@
  */
 
 /*!
- * Vue.js v2.5.16
+ * Vue.js v2.5.17
  * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
@@ -56,7 +56,7 @@ object-assign
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.14.3
+ * @version 1.14.4
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *
