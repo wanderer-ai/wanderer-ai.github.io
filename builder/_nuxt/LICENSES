@@ -1,5 +1,5 @@
 /*!
-  * vue-router v3.4.3
+  * vue-router v3.4.6
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -68,6 +68,8 @@ Licensed under The MIT License (http://opensource.org/licenses/MIT)
 /*! Bezier curve function generator. Copyright Gaetan Renaudeau. MIT License: http://en.wikipedia.org/wiki/MIT_License */
 
 /*! Runge-Kutta spring physics function generator. Adapted from Framer.js, copyright Koen Bok. MIT License: http://en.wikipedia.org/wiki/MIT_License */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
