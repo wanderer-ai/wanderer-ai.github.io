@@ -1,5 +1,10 @@
 /*!
-  * vue-router v3.4.6
+   * mustache.js - Logic-less {{mustache}} templates with JavaScript
+   * http://github.com/janl/mustache.js
+   */
+
+/*!
+  * vue-router v3.4.7
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -23,11 +28,6 @@
  * Vue.js v2.6.12
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
- */
-
-/*!
- * mustache.js - Logic-less {{mustache}} templates with JavaScript
- * http://github.com/janl/mustache.js
  */
 
 /*!
