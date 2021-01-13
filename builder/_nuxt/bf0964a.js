@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{365:function(e,n,t){"use strict";t.r(n);var r={components:{}},l=t(0),component=Object(l.a)(r,(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("wanderer-builder")],1)}),[],!1,null,null,null);n.default=component.exports}}]);
