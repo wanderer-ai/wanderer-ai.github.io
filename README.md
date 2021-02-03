@@ -1,2 +1,1 @@
-# Wanderer.ai github page
-This repository contains the current github page.
+# Wanderer.ai website
